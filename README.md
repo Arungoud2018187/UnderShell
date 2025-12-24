@@ -56,7 +56,7 @@ Women Safety
 "UnderShell"is a mobile application designed to enhance women's safety by providing instant assistance, real-time location tracking , and emergency communication with trusted contacts.  
 Built with a focus on reliability and usability, UnderShell ensures that help is always just a gesture away — anytime, anywhere.
 
- Features
+## Features
 
 - Saviors List 
   Add trusted contacts such as parents, guardians, or friends. The app ensures that in emergencies, your saviors are alerted instantly.
@@ -76,7 +76,7 @@ Built with a focus on reliability and usability, UnderShell ensures that help is
 - Google Maps Integration
   The app leverages the Google Maps API for live location tracking and visualization.
 
- Tech Stack
+ ## Tech Stack
 
  | Layer | Technology Used |
  
@@ -92,26 +92,26 @@ Built with a focus on reliability and usability, UnderShell ensures that help is
  
  Platform   - Android 
 
- Installation and Setup
+ ## Installation and Setup
 
- Clone the Repository
+#### Clone the Repository
 
 git clone https://github.com/<your-username>/UnderShell.git
 - cd UnderShell
 
-For the Frontennd 
+### For the Frontennd 
 
 - npm install 
 
-For the Backend 
+### For the Backend 
 
 - pip install -r requirments.txt 
 
-Run the app using Expo
+#### Run the app using Expo
 
 - npx expo start 
 
-run the backend 
+#### run the backend 
 
 - python server.py 
 
