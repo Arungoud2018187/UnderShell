@@ -63,6 +63,7 @@ To run this application on a physical Android device, follow the steps below:
 
 ## Screenshots
 
+![WhatsApp Image 2025-12-24 at 10 07 22 AM](https://github.com/user-attachments/assets/06b3c90e-a923-4e19-9f0a-9a1ef9355a47)
 ![WhatsApp Image 2025-11-07 at 12 15 27 PM](https://github.com/user-attachments/assets/5d1e3c5c-7ecc-408f-8484-c1a07b7138f0)
 ![WhatsApp Image 2025-11-07 at 12 15 26 PM](https://github.com/user-attachments/assets/dfeaeedc-5042-4fd2-9138-046f7d127443)
 ![11](https://github.com/user-attachments/assets/7cdee154-1349-48bd-adb3-16430a1b8c42)
