@@ -97,6 +97,6 @@ To run this application on a physical Android device, follow the steps below:
 
 4. Google Maps API
 
-Everyone committed to creating safer digital and physical spaces for women ❤️
+## Everyone committed to creating safer digital and physical spaces for women ❤️
 
- “UnderShell — Your safety, just a gesture away.”
+ # “UnderShell — Your safety, just a gesture away.”
