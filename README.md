@@ -48,22 +48,14 @@ git clone https://github.com/<your-username>/UnderShell.git
  ```bash
  cd UnderShell
 ```
-#### For the Frontennd 
+#### For Projects Libraries 
  ```bash
    npm install
-   ```
-#### For the Backend 
- ```bash
- pip install -r requirments.txt 
    ```
 #### Run the app using Expo
  ```bash
  npx expo start 
    ```
-#### run the backend 
-```bash
- python server.py 
- ```
 ## Screenshots
 
 ![WhatsApp Image 2025-11-07 at 12 15 27 PM](https://github.com/user-attachments/assets/5d1e3c5c-7ecc-408f-8484-c1a07b7138f0)
