@@ -54,6 +54,13 @@ git clone https://github.com/Arungoud2018187/UnderShell
  ```bash
  npx expo start 
    ```
+## Running the App on Mobile (Expo)
+To run this application on a physical Android device, follow the steps below:
+ - Expo Go app installed on your Android device (from Play Store)
+ - A QR code will be displayed in the terminal
+ - Open the Expo Go app on your mobile device and scan the QR code.
+ - The application will launch and run directly on your mobile device.
+
 ## Screenshots
 
 ![WhatsApp Image 2025-11-07 at 12 15 27 PM](https://github.com/user-attachments/assets/5d1e3c5c-7ecc-408f-8484-c1a07b7138f0)
