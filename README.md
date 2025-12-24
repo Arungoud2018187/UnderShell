@@ -95,26 +95,28 @@ Built with a focus on reliability and usability, UnderShell ensures that help is
  ## Installation and Setup
 
 #### Clone the Repository
-
+ ```bash
 git clone https://github.com/<your-username>/UnderShell.git
-- cd UnderShell
-
+ ```
+ ```bash
+ cd UnderShell
+```
 ### For the Frontennd 
-
-- npm install 
-
+ ```bash
+   npm install
+   ```
 ### For the Backend 
-
-- pip install -r requirments.txt 
-
+ ```bash
+ pip install -r requirments.txt 
+   ```
 #### Run the app using Expo
-
-- npx expo start 
-
+ ```bash
+ npx expo start 
+   ```
 #### run the backend 
-
-- python server.py 
-
+```bash
+ python server.py 
+ ```
 ## Screenshots
 
 ![WhatsApp Image 2025-11-07 at 12 15 27 PM](https://github.com/user-attachments/assets/5d1e3c5c-7ecc-408f-8484-c1a07b7138f0)
