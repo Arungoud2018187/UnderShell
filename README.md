@@ -25,8 +25,6 @@ Built with a focus on reliability and usability, UnderShell ensures that help is
 - Google Maps Integration
   The app leverages the Google Maps API for live location tracking and visualization.
 
- ## Tech Stack
-
 ## Tech Stack
 
 | Layer       | Technology Used          |
