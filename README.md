@@ -43,7 +43,7 @@ Built with a focus on reliability and usability, UnderShell ensures that help is
 
 #### Clone the Repository
  ```bash
-git clone https://github.com/<your-username>/UnderShell.git
+git clone https://github.com/Arungoud2018187/UnderShell
  ```
  ```bash
  cd UnderShell
