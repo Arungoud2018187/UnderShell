@@ -123,15 +123,15 @@ git clone https://github.com/<your-username>/UnderShell.git
 ![WhatsApp Image 2025-11-07 at 12 15 26 PM](https://github.com/user-attachments/assets/dfeaeedc-5042-4fd2-9138-046f7d127443)
 ![11](https://github.com/user-attachments/assets/7cdee154-1349-48bd-adb3-16430a1b8c42)
 
-Team Members
+## Team Members
 
-Rupa  
+1. Rupa  
 
-Veera babu 
+2. Veera babu 
 
-Arun goud 
+3. Arun goud 
 
-Future Enhancements
+## Future Enhancements
 
 - SOS button integration with smartwatch
 
@@ -143,15 +143,15 @@ Future Enhancements
 
 - Offline mode with SMS-based location sharing
 
-Acknowledgements
+## Acknowledgements
 
-React Native
+1. React Native
 
-Expo
+2. Expo
 
-Flask
+3. Flask
 
-Google Maps API
+4. Google Maps API
 
 Everyone committed to creating safer digital and physical spaces for women ❤️
 
